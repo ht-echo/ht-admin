@@ -1,0 +1,37 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1606120336658'); /* IE9 */
+  src: url('iconfont.eot?t=1606120336658#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAANkAAsAAAAACBAAAAMVAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCDSAqDCIJOATYCJAMYCw4ABCAFhG0HUxv/BhEVnGnIfhzGjpfM3WsofmkkS/iRuM9BPOY9zUvS/moF+kRcAXcB1Pfd7MY2KkKxJPaWn77AL+z0pWFcAPxx77RpCcxn375bay9bGzDBgPamLuoS3x7H2jC9pIG6eBwCeKQlN1K5au3GOBjccQJI7x7dOuBUnBgMizgIdsdSg8zHwlEz1DlgXvJ6eUNBcUBhadyp9btW6Uz5MCyux0fjaR1hYG2nB9gq0EBuwICM7jQORWfB3Gg88wuGmkCAg8KEhPHCBGHWsHgUsapwXasQeKlgYVAb/nlig9IDAGrDkAUhAbMQxYMIDIQJECgIsyLQEBZn35bU3nCIA3QHJrqk3JgUgmOMiZ9WEvr+dr7tjYJn9Yqz/3gatfqYF8w8IXrCyVaLxyfpsiXbslUiTWKUNWHl1s2JG8u5nUd1PnQj706x1l0tNitHl8PXcy8ftWxd1q5bMy9eDk0ByoxfsWVbsmZ06XYiOiknkyeS095g1OXfUaR/6yjz78xoIbL2d/bfZwvlKjF5vT/18+Ykpru/Pkf+KSXeVKhLUX5KzxYUT5DrUrGi9eItdNP191asTz++8lHF49brvJ7ilzv8jnlzbzoagCjSogHQDdUVAL1e3YXont6v0wLoterRD/wOv18MndQuXulvjm8AuPt48fzEGd0zTA85KGCs38Wa2GAsjquyjS4dZCGATbpN7lCAhwf8JGtCHmwlTXLfYcEhSQGKGGlA45AZa4i5wcKnMNg4lAOPXFRb7ZOIgWjEuEBOpgAQ4rMPFHE5CZr4nMca4n2wSMo7sIkvGjyaSqItfbIKo8flKjCKgrI/1TkP1tfoJc18oRw7I2VOQv5BfO2hOIjqkScGyBYz/FQmqpascE8PcBq6jskJN8g1qFRdGoa260pBzv3qQiWBURSU/anOebBRe700nv9COXZGBkoa9A/i684pDqIJ2KdwmFTyKpf4qUxULVnhnh5Aj84LMrnuQQ1yDaoFfpeGqJWdKgyOF/cPkMEqcK9nixItRiyxJYYZpOz2Ag89ewcUN56HnevM/1h2fN1qBQAAAA==') format('woff2'),
+  url('iconfont.woff?t=1606120336658') format('woff'),
+  url('iconfont.ttf?t=1606120336658') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1606120336658#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-stop:before {
+  content: "\e638";
+}
+
+.icon-reset:before {
+  content: "\e611";
+}
+
+.icon-speedDown:before {
+  content: "\e626";
+}
+
+.icon-play:before {
+  content: "\e60f";
+}
+
+.icon-speedUp:before {
+  content: "\e600";
+}
+

@@ -1,0 +1,30 @@
+{
+  "id": "1762722",
+  "name": "app_demo",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "816047",
+      "name": "A",
+      "font_class": "letter_a",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "10451684",
+      "name": "环形图",
+      "font_class": "round",
+      "unicode": "e627",
+      "unicode_decimal": 58919
+    },
+    {
+      "icon_id": "5140621",
+      "name": "长方形",
+      "font_class": "rect",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    }
+  ]
+}
